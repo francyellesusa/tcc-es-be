@@ -1,0 +1,12 @@
+CPF: 389.586.764-00
+Nome: Arka Brebe Covan 
+Telefone: (82) 2685-6905
+Email: aluno@sgc.tcc.es
+Senha: 123 (202cb962ac59075b964b07152d234b70)
+Endereço: Rua do Comércio 123, Centro
+Municipio: Belém
+Estado: AL
+
+
+//sql
+INSERT INTO `alunos` (`CPF`, `nome`, `telefone`, `email`, `senha`, `endereco`, `municipio`, `estado`) VALUES ('38958676400', 'Arka Brebe Covan', '(82)2685-6905', 'aluno@sgc.tcc.es', '202cb962ac59075b964b07152d234b70', 'Rua do Comércio 123, Centro', 'Belém', 'AL');
